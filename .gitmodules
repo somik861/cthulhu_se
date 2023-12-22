@@ -1,0 +1,6 @@
+[submodule "cthulhu_interpreter_se"]
+	path = cthulhu_interpreter_se
+	url = https://github.com/somik861/cthulhu_interpreter_se.git
+[submodule "cthulhu_subst_se"]
+	path = cthulhu_subst_se
+	url = https://github.com/somik861/cthulhu_subst_se.git
