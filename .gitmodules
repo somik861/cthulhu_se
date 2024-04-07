@@ -4,3 +4,6 @@
 [submodule "cthulhu_subst_se"]
 	path = cthulhu_subst_se
 	url = https://github.com/somik861/cthulhu_subst_se.git
+[submodule "cthulhu_compiler_se"]
+	path = cthulhu_compiler_se
+	url = https://github.com/somik861/cthulhu_compiler_se.git
